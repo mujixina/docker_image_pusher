@@ -1,1 +1,8 @@
-prom/prometheus:latest
+prom/node-exporter:latest
+grafana/grafana
+nginx:latest
+nginx:1.22
+mysql:8.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
+php:8-apache
